@@ -8,7 +8,7 @@ import cloudscraper
 from bs4 import BeautifulSoup 
 print("Everything Looks Good! Lets Continue.")
 
-url = "https://shortingly.me/qaXpNHm"  #@param {type:"string"}
+url = "https://gtlinks.me/MsIXsJZn5B"  #@param {type:"string"}
 
 
 '''
